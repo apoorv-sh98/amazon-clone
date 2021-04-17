@@ -17,27 +17,6 @@ function App() {
           <Route path="/">
             <Header/>
             <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
-            <h1>HOME PAGE!!</h1>
           </Route>
         </Switch>
       </div>
